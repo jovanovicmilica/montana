@@ -240,6 +240,9 @@ footer a{
     .food{
         justify-content: center;
     }
+    .room{
+        width: 100%;
+    }
 }
 @media screen and (max-width:600px){
     #services .service{
